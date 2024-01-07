@@ -5,11 +5,10 @@
 </h1>
 
 > ## Persyaratan Project
-1. Sudah mengisi **Google Play Store Apps [Submission Form](https://forms.gle/guLUupVRZD4GGM7B7) - Teknik Informatika UNIDA Gontor**
-2. Nama package aplikasi tidak boleh mengandung kata: ***com.example.***
-3. Min SDK 21 (Android 5.0)
-4. Target SDK 33 (Android 13)
-5. Tambahkan _Readme.md_ pada project Antum (penjelasan tentang Aplikasi Antum)
+1. Nama package aplikasi tidak boleh mengandung kata: ***com.example.***
+2. Min SDK 21 (Android 5.0)
+3. Target SDK 33 (Android 13)
+4. Tambahkan _Readme.md_ pada project Antum (penjelasan tentang Aplikasi Antum)
 
 > ## Cara Upload ke Repository
 1. Silahkan ***Fork*** repository ini ke akun Antum
